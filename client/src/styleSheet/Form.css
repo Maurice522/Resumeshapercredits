@@ -1,0 +1,320 @@
+.formSection {
+  color: #171717;
+  padding-bottom: 15px;
+  font-size: 500;
+}
+
+.scrollable-dropdown {
+  max-height: 100px;
+  overflow-y: auto;
+}
+
+.detailsInfoLabel {
+  font-size: 16px;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  color: rgb(130, 139, 162);
+  font-size: 15px;
+  line-height: 18px;
+}
+
+.detailsInfoInput {
+  border-radius: 3px;
+  padding: 6px 10px;
+  width: 95%;
+  caret-color: rgb(26, 145, 240);
+  background-color: rgb(239, 242, 249);
+  outline: none;
+  border: 0px;
+  color: rgb(30, 37, 50);
+  transition: color 0.1s ease 0s;
+  margin-bottom: 4%;
+}
+
+.uplouploadPictureBigDiv {
+  /* background-color: #cccccc; */
+  position: relative;
+}
+
+.uplouploadPictureDiv {
+  width: 20%;
+  background-color: aqua;
+  position: absolute;
+}
+
+.uploadPictureInput {
+  background-color: none !important;
+  width: 44% !important;
+  padding-left: 5px;
+  padding-right: 2px;
+  position: absolute;
+  /* top: 42%; */
+  bottom: -21%;
+  /* right: 8%; */
+  left: 2% !important;
+  font-size: 14px;
+}
+
+.uplouploadPhotoDivIcon {
+  position: absolute;
+  bottom: 10%;
+  color: rgb(157, 165, 186);
+  color: #5ec57e;
+  z-index: 1;
+  right: 35%;
+}
+.uplouploadPhotoDivGif {
+  /* background-color: #171717; */
+  position: absolute;
+  top: -6%;
+  color: rgb(157, 165, 186);
+  color: #5ec57e;
+  z-index: 1;
+  right: 6%;
+  height: 100px;
+}
+
+.uploadedPicture {
+  z-index: 2;
+  position: absolute;
+  right: 20%;
+  bottom: 15%;
+}
+
+.uplouploadPictureDivLabel {
+  position: absolute;
+  top: -20%;
+  color: black;
+  left: 2.2%;
+  color: rgb(130, 139, 162);
+  font-size: 15px;
+  line-height: 18px;
+}
+.dottedDiv{
+  position: absolute;
+  border: 3px dotted #5ec57e; 
+  z-index: 1;
+  right: 4%;
+  top: -87%;
+  height: 130px;
+  width: 44%;
+
+}
+
+.Sec1additionalDetails {
+  background-color: white !important;
+  border: white;
+  text-align: left;
+  width: 51%;
+  display: block;
+  color: rgb(26, 145, 240);
+  font-weight: 500;
+  margin-bottom: 3%;
+}
+.shiftedSec1additionalDetails{
+  margin-top: 3.2%;
+}
+
+.detailsTextarea {
+  border: 1px solid rgb(168, 177, 201);
+  margin-top: 2%;
+  font-size: 14px;
+  padding: 1%;
+  margin-bottom: 3%;
+  width: 100%;
+}
+
+.detailsSubText {
+  font-size: 14px;
+  color: rgb(130, 139, 162);
+  width: 99%;
+}
+
+.personalSubSubHeading {
+  color: rgb(26, 145, 240);
+  font-size: 18px;
+  margin-bottom: 1.5%;
+  margin-top: 2%;
+}
+
+.employmentHistoryDiv {
+  position: relative;
+}
+
+.DeleteEmp {
+  background-color: white;
+  border: white;
+  color: red;
+  /* position: absolute; */
+  /* bottom: -18px; */
+  /* top:5%; */
+  /* right: 3%; */
+  margin-top: 0.5%;
+  margin-bottom: 4%;
+  margin-left: 95%;
+}
+
+.myAccordian {
+  margin-bottom: 8%;
+}
+.webisteDiv{
+  position: relative;
+}
+
+.DeleteSkill {
+  background-color: white;
+  border: white;
+  color: rgb(148, 38, 38);
+  /* color: goldenrod; */
+}
+
+.selectedOption {
+  display: inline-block;
+  margin-left: 0%;
+  margin-right: 4%;
+  padding-top: 3%;
+}
+
+.SkillsadditionalDetails {
+  background-color: white !important;
+  border: white;
+  text-align: left;
+  width: 51%;
+  display: block;
+  color: rgb(26, 145, 240);
+  font-weight: 500;
+  margin-bottom: 0%;
+  margin-top: 2%;
+}
+
+.customSecMainHeading {
+  /* margin-top: -8%; */
+  margin-bottom: 6%;
+}
+
+.customSecDiv {
+  margin-top: 15%;
+}
+
+.courseDescription {
+  margin-bottom: 0;
+  margin-top: 5%;
+}
+.customSecdetailsInfoLabel{
+  margin-top: 0%;
+}
+.searchDetailsInfoInput{
+  width: 80% !important;
+}
+.createLiveSearchDetailsInfoInput{
+  width: 75%!important;
+}
+.addSkillBtn{
+  background-color: white;
+  border: none;
+  margin-left: 2%;
+  color: #347571;
+  font-weight: 600;
+}
+.addExtraBtns{
+  width: 100%;
+  margin: 3%;
+  margin-top: 0%;
+  margin-bottom: 10%;
+  color: #347571; 
+  /* color: #5ec57e; */
+  font-size: 18px;
+}
+.saveProfileDiv{
+  position: relative;
+  align-items: center;
+  text-align: center;
+  /* margin-bottom: -8%; */
+}
+.saveProfileBtn {
+  margin: auto;
+  margin-top: 4%;
+  margin-bottom: 12%;
+  width: 55%;
+  border-radius: 5px;
+  background-color: #c2fbd7;
+  border-radius: 25px;
+  box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset, rgba(44, 187, 99, .15) 0 1px 2px, rgba(44, 187, 99, .15) 0 2px 4px, rgba(44, 187, 99, .15) 0 4px 8px, rgba(44, 187, 99, .15) 0 8px 16px, rgba(44, 187, 99, .15) 0 16px 32px;
+  box-shadow: rgba(44, 187, 99, .35) 0 -25px 18px -14px inset, rgba(44, 187, 99, .25) 0 1px 2px, rgba(44, 187, 99, .25) 0 2px 4px, rgba(44, 187, 99, .25) 0 4px 8px, rgba(44, 187, 99, .25) 0 8px 16px, rgba(44, 187, 99, .25) 0 16px 32px;
+  color: green;
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 14px;
+  font-weight: 600;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.saveProfileBtn:hover {
+  background-color: #5ec57e;
+  color: white;
+  box-shadow: rgba(44, 187, 99, .35) 0 -25px 18px -14px inset, rgba(44, 187, 99, .25) 0 1px 2px, rgba(44, 187, 99, .25) 0 2px 4px, rgba(44, 187, 99, .25) 0 4px 8px, rgba(44, 187, 99, .25) 0 8px 16px, rgba(44, 187, 99, .25) 0 16px 32px;
+}
+.createCustomAdditons{
+  font-size: 16px;
+}
+.createCustomAdditons:hover{
+  color: #5ec57e;
+}
+.moveBtnCreateUp{
+  background-color: transparent;
+  /* background-color: #346571; */
+  border: none;
+  text-align: right;
+  position: absolute;
+  top: -3% !important;
+  width: 10%;
+  right: 1% !important;
+
+}
+.moveBtnCreateDown{
+  background-color: transparent;
+  /* background-color: #346571; */
+  border: none;
+  text-align: right;
+  position: absolute;
+  top: 1.7%;
+  width: 10%;
+  right: 1% !important;
+}
+.moveBtnCreateWebsiteUp {
+  background-color: transparent;
+  /* background-color: #346571; */
+  border: none;
+  text-align: right;
+  position: absolute;
+  top: -46% !important;
+  width: 10%;
+  right: 2.5% !important;
+}
+.moveBtnCreateWebsiteDown {
+  background-color: transparent;
+  /* background-color: #346571; */
+  border: none;
+  text-align: right;
+  position: absolute;
+  top: -15.5%;
+  width: 10%;
+  right: 2.5% !important;
+}
+.moveBtnCreateNotLiveDown {
+  background-color: transparent;
+  /* background-color: #346571; */
+  border: none;
+  text-align: right;
+  position: absolute;
+  top: 8.5%;
+  width: 10%;
+  right: -2%;
+}

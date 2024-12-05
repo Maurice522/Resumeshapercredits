@@ -1,0 +1,66 @@
+{
+  "name": "resumeshaper",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "@react-pdf/pdfkit": "^3.0.2",
+    "@react-pdf/renderer": "^3.1.13",
+    "@reduxjs/toolkit": "^1.9.6",
+    "@testing-library/dom": "^9.3.4",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.6.5",
+    "cashfree-dropjs": "^1.1.5",
+    "cropperjs": "^1.6.1",
+    "file-loader": "^6.2.0",
+    "file-saver": "^2.0.5",
+    "firebase": "^10.4.0",
+    "fs": "^0.0.1-security",
+    "html-to-pdfmake": "^2.4.26",
+    "jquery": "^3.7.1",
+    "jspdf": "^2.5.1",
+    "moment-timezone": "^0.5.44",
+    "openai": "^4.14.2",
+    "react": "^18.2.0",
+    "react-bootstrap-icons": "^1.10.3",
+    "react-cropper": "^2.3.3",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-helmet": "^6.1.0",
+    "react-pdf": "^7.5.1",
+    "react-player": "^1.15.3",
+    "react-redux": "^8.1.3",
+    "react-router-dom": "^6.16.0",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^9.1.3",
+    "react-tooltip": "^5.25.1",
+    "url-loader": "^4.1.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+.dashboardDiv{
+    /* background-color: bisque; */
+    height: 500px;
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+}
+.dashHrLine{
+    color: #5ec57e;
+    height: 2px;
+    background-color: #5ec57e;
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+.formTitle {
+    text-align: center;
+    color: #174f5d;
+    color: #35b276;
+    color: #151e3d;
+    color: #174f5d;
+    font-weight: 600;
+    margin-top: 2%;
+    font-family: 'Open Sans', sans-serif;
+  
+  }
+  
+  .formSubText {
+    color: #808080;
+    text-align: center;
+    width: 78%;
+    margin: auto;
+    margin-bottom: 4%;
+  }
+  .dashHeader{
+    position: relative;
+  }
+  .createDoc {
+    width: 15%;
+    right:  0%;
+    top: -15%;
+    position: absolute;
+    border-radius: 26px;
+    background-color: #35b276;
+    color: white;
+    border: none;
+    height: 42px; 
+}
+.uploadDoc {
+    width: 18%;
+    right:  16%;
+    top: -15%;
+    position: absolute;
+    border-radius: 26px;
+    background-color: #35b276;
+    color: white;
+    border: none;
+    height: 42px; 
+}
+.createDoc:hover {
+    width: 15%;
+    right:  0%;
+    top: -15%;
+    position: absolute;
+    border-radius: 26px;
+    color: white;
+    border: none;
+    height: 42px; 
+}
+.resume1Div{
+    /* background-color: bisque; */
+    /* width: 33.33%; */
+    align-items: left;
+    text-align: left;
+
+}
+.resumeImg{
+    width: 196px;
+    margin: auto;
+    height: 273px;
+    margin-bottom: 12%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.resumeTitle{
+    margin-top: 0;
+}
+.resumeDesc{
+    margin-top: 0;
+    font-size: 14px;
+    font-style: italic;
+    color: #174f5d;
+    margin-bottom: 15%;
+}
+.editResumeOptions{
+    padding-left: 10%;
+    /* padding-top: 3%; */
+}
+.editResumeBtns{
+    background-color: white !important;
+    border: none;
+    margin-bottom: 4%;
+    color: #20a047;
+    /* color: #174f5d; */
+    /* color: rgb(20, 95, 156);
+    color: white;
+    color: #174f5d; */
+    /* box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px; */
+    width: 83%;
+    text-align: left;
+    padding: 2%;
+    padding-left: 4%;
+    background-color: #5ec57e !important;
+    background-color: white !important;
+
+    
+}
+.editResumeBtns:hover{
+    background-color: white !important;
+    background-color: #5ec57e !important;
+    border: none;
+    margin-bottom: 4%;
+    color: #5ec57e;
+    color: #174f5d;
+    color: rgb(20, 95, 156);
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    width: 83%;
+    text-align: left;
+    padding: 2%;
+    padding-left: 4%;
+    margin-bottom: 6%;
+    color: #5ec57e;
+    color: white;
+    /* color: #174f5d; */
+}
+.addResumePlusBtn{
+    width: 27% !important;
+    background-color: #5ec57e !important;
+    color: white;
+    /* margin: auto; */
+}
+.addResumePlusBtn:hover{
+    width: 27% !important;
+    background-color: #5ec57e !important;
+    color: white;
+}
+.addNewResumeDiv{
+    /* background-color: #151e3d; */
+    width: 50%;
+    height: 273px;
+    width: 196px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+align-items: left;
+text-align: center;
+padding-top: 18%;
+border: 2px dotted #20a047;
+}
+.tokensBtn{
+    background-color: transparent;
+    border: none;
+    position: absolute;
+    right: 17%;
+    top: 3.5%;
+    z-index: 45;
+    font-size: 16px;
+}

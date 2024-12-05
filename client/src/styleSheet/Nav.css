@@ -1,0 +1,26 @@
+.myNav {
+    background-color: #ecf8e5 !important;
+    /* background-color: mintcream !important; */
+    /* background-color: #347571 !important; */
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    font-family: 'Open Sans', sans-serif;
+    color: #346571;
+    z-index: 11;
+    display: flex;
+    width: 100%;
+}
+
+.logoImg {
+    height: 40px;
+}
+
+.navText {
+    color: #347571;
+}
+
+@media only screen and (max-width: 480px) {
+    .navText {
+        color: #347571;
+        font-size: 16px;
+    }
+}

@@ -1,0 +1,203 @@
+/* background-color: #f5f5f5; */
+.pdfDisplayDiv {
+    background-color: white;
+    width: 57%;
+    min-height: 84vh;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 4% !important;
+    padding-left: 2%;
+    padding-right: 0% !important;
+    padding-top: 0% !important;
+    padding-bottom: 0% !important;
+    overflow: auto;
+    max-height: 84vh;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+    height: 84vh;
+}
+
+.temp4MainDiv{
+    /* background-color: aqua; */
+    min-height: 84vh;
+    width: 100%;
+}
+.temp4LeftCol{
+    background-color: white;
+    /* background-color: #d9e6eb; */
+    text-align: left !important;
+    min-height: 84vh;
+    padding: 0%;
+}
+.leftInnerColoumn{
+     background-color: #d9e6eb;
+     /* background-color: red; */
+    padding-top:5%;
+    padding-left: 6% !important;
+    color: #505252;
+    font-size: 6px;
+    min-height: 84vh;
+    margin-left: 12%;
+    height:100%;
+}
+.temp4BlueFont{
+    color: #254a59;
+    margin-top: 12% !important;
+}
+.temp4RightCol{
+    /* background-color: #082d4d; */
+    min-height: 84vh;
+    padding:0 !important;
+    margin: 0;
+    padding-top: 0% !important;
+    color: #505252;
+}
+
+.profileName {
+    padding: 0;
+    margin: 0;
+    padding-left: 4%;
+    position: relative;
+    font-weight: 520;
+    color: rgb(30, 37, 50);
+    color: rgb(22, 89, 143);
+    font-size: 10px;
+}
+.temp4NameDiv {
+   /* background-color: #a9c9d7; */
+   width: 100% !important;
+   padding-top: 8% !important;
+   padding-left: 6% !important;
+   padding-right: 4% !important;
+}
+.temp4ResumeName{
+    font-size: 14px !important;
+    font-weight: 640;
+    margin-top: 1% !important;
+    padding-top: 0% !important;
+    letter-spacing: 4px;
+    color: #2f4d5b;
+}
+.temp4Hr{
+    width: 17%;
+    margin-top: 6%;
+    margin-bottom: 8%;
+}
+.temp4Hr2{
+    width: 17%;
+    margin-top: 4%;
+    margin-bottom: 5%;
+    margin-left: 4%;
+}
+.temp4ResumeTitle{
+    font-weight: 500;
+    font-size: 8px  !important;
+    letter-spacing: 1.6px;
+    margin-bottom: 5%;
+    margin-left: 3.5% !important;
+    color: #2f4d5b;
+
+}
+.temp4ProfessionalSummary{
+    margin-left: -2%;
+}
+.temp2GreyFont{
+    margin-top: 12% !important;
+    /* color: rgb(144, 154, 178) !important; */
+    color: #62a844 !important;
+
+}
+.temp2PersonalDetails{
+    font-size: 10px !important;
+}
+.temp4ProfileDetails{
+    padding-left: 2%;
+    margin-top: 22% !important;
+    padding-right: 12% !important;
+}
+.temp4ImageDiv{
+   margin: auto;
+    margin-top: 18%;
+    width: 100%;
+    align-items: center !important;
+    text-align: center;
+    height: 70px;
+}
+.imageBg{
+    background-color: #a9c9d7;
+    border-radius: 100%;
+    /* margin: auto; */
+    margin-left: 8%;
+    width: 70px;
+    padding: 3%;
+    height: 69px;
+}
+.temp4DisplayImage{
+    width: 63px !important;
+    border-radius: 100%;
+    height: 63px;
+}
+.temp3PersonalDetails{
+    font-size: 10px;
+}
+.temp3Underline{
+    /* text-decoration: underline; */
+   /* color: rgb(22, 89, 143); */
+   color: rgb(26, 145, 240);
+
+}
+.temp3Headings{
+    color: rgb(30, 37, 50);
+    /* color: #62a844; */
+
+}
+.temp3ProfileName{
+    color: rgb(30, 37, 50) !important;
+    /* color: #62a844 !important;  */
+
+
+}
+.temp4BlueFont{
+    font-weight: 750 !important;
+    letter-spacing: 2px;
+    margin-top: 29% !important;
+}
+.template4RightHeadings{
+    margin-top: 10% !important;
+    font-weight: 700 !important;
+    letter-spacing: 2px;
+}
+.temp4GreyBigDiv{
+    background-color: #f5f5f5;
+    width: 100%;
+    position: relative;
+    top: 3%;
+}
+.temp4LeftContent{
+    margin-top: 15%;
+    padding-left: 6%;
+    padding-right: 4%;
+}
+.employmetnProfileText{
+padding-left: 4% !important;
+}
+.profileEmploymentName{
+    padding-left: 4% !important;
+}
+.employmentTime {
+    padding-left: 4% !important;
+}
+.temp3Hr3{
+    width: 20%;
+    margin-left: 4% !important;
+    margin: 0%;
+    padding: 0%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+.temp4CustomTitle{
+    margin-left: -1%;
+}
+.employmentHistName{
+margin-top: 1%;
+}
